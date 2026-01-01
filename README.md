@@ -2,6 +2,13 @@
 
 ## Master Thesis Project – Reinforcement Learning
 
+**Author:** Malco GBAKPA  
+**Degree:** Master in Computer Science (Artificial Intelligence)  
+**Institution:** Dakar Institute of Technology  
+**Academic Year:** 2024–2025  
+
+---
+
 ## Project Overview
 
 This repository contains the code and experimental material for an **individual Master’s thesis** investigating the use of **deep reinforcement learning** for training multiple autonomous aerial agents in simulated three-dimensional environments.
@@ -108,11 +115,5 @@ Potential research extensions include:
 
 These directions align with current challenges in autonomous and multi-agent systems research.
 
----
-
-**Author:** Malco GBAKPA  
-**Degree:** Master in Computer Science (Artificial Intelligence)  
-**Institution:** Dakar Institute of Technology  
-**Academic Year:** 2024–2025  
 
 
