@@ -70,14 +70,9 @@ PPO was selected due to its stability and suitability for continuous control tas
 
 ---
 
-## Results and Code Versions
+## Experimental Results
 
-**Important note:** The results presented in the thesis are based on:
-- **Trained model:** `ppo_marl_20251211_161150` (December 11, 2025)
-- **Training scripts used for the thesis:** Archived version in `experiments/exp_20251211_161150/train_marl.py`
-- **Evaluation scripts used for the thesis:** Current version (with IC95 confidence intervals and timestamps)
-
-The code present in this repository is the **current version** (functional). The archived files from `experiments/exp_20251211_161150/` remain available locally for reference but are not included in the GitHub repository (excluded by `.gitignore`).
+The experimental results presented in the thesis are based on the trained model `ppo_marl_20251211_161150` (trained on December 11, 2025). This model can be evaluated using the evaluation scripts provided in this repository.
 
 ---
 
