@@ -51,7 +51,7 @@ This setup allows implicit coordination to emerge through interaction with the e
   - Safety-aware behavior under uncertainty
 - **Training Strategy:** Curriculum learning with progressive task complexity
 
-The number of active agents and environmental constraints are gradually increased during training to study learning dynamics under increasing decision complexity.
+The environmental constraints are gradually increased during training to study learning dynamics under increasing decision complexity.
 
 ---
 
